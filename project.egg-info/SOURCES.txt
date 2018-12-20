@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+w3cschool/__init__.py
+w3cschool/items.py
+w3cschool/middlewares.py
+w3cschool/pipelines.py
+w3cschool/settings.py
+w3cschool/spiders/W3CSchoolSpider.py
+w3cschool/spiders/__init__.py
+w3cschool/spiders/cainiao.py
